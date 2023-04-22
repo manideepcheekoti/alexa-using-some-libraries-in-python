@@ -1,0 +1,2 @@
+Sometimes ur microphone will hear background voice(noice) 
+To escape from this u should use listener.adjust_for_ambient_noise(source)
